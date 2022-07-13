@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dev_Chouhan.
-- 👀 I’m interested in Programming competitions, Open Source collabrations.
-- 🌱 I’m currently learning Data Structure and Algorithm, Cybre Securities, projeact Managing.
-- 💞️ I’m looking to collaborate on Open Source Projects or persnol projects.
+- 👀 Interested in Programming competitions, Open Source collabrations.
+- 🌱 Currently learning Data Structure and Algorithm, Cybre Securities, projeact Managing.
+- 💞️ Also looking to collaborate on Open Source Projects or persnol projects.
 - 📫 To reach me Contact me on: devchouhan24git@gmail.com.
 
 <!---
